@@ -12,32 +12,32 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Dickson Kipketer',
+  title: "Hi all, I'm Dickson",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I am a Passionate Fullstack Web developer having an experience of building Web applications with Javascript/ReactJS/NodeJS/php/Laravel/MERN stack and some other cool libraries and Framworks.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://drive.google.com/file/d/1YkoQ9Mzv9VoVAt2sJeMzZkXUvxE0u57-/view?usp=sharing',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'dkklimo',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  //url: 'https://1hanzla100.github.io/',
+  linkedin: 'https://www.linkedin.com/in/dickson-limo-kipketer-627903167/',
+  github: 'https://github.com/dkklimo',
+  //instagram: 'https://www.instagram.com/__hanzla100',
+  facebook: 'https://www.facebook.com/dickson.kipketer',
+  twitter: 'https://twitter.com/dkklimo1',
 };
 
 export const skillsSection: SkillsSectionType = {
   title: 'What I do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
       title: 'Full Stack Development',
@@ -67,15 +67,11 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'vscode-icons:file-type-reactjs',
         },
         {
-          skillName: 'Nextjs',
-          fontAwesomeClassName: 'vscode-icons:file-type-light-next',
+          skillName: 'Nodejs',
+          fontAwesomeClassName: 'fab fa-node-js',
         },
         {
-          skillName: 'Python',
-          fontAwesomeClassName: 'logos:python',
-        },
-        {
-          skillName: 'Django',
+          skillName: 'MERN Stack',
           fontAwesomeClassName: 'vscode-icons:file-type-django',
         },
 
@@ -111,10 +107,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'AWS',
           fontAwesomeClassName: 'logos:aws',
         },
-        {
-          skillName: 'Azure',
-          fontAwesomeClassName: 'logos:microsoft-azure',
-        },
+        // {
+        //   skillName: 'Azure',
+        //   fontAwesomeClassName: 'logos:microsoft-azure',
+        // },
         {
           skillName: 'Heroku',
           fontAwesomeClassName: 'logos:heroku-icon',
@@ -143,14 +139,14 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Nginx',
           fontAwesomeClassName: 'logos:nginx',
         },
-        {
-          skillName: 'Sentry',
-          fontAwesomeClassName: 'logos:sentry-icon',
-        },
+        // {
+        //   skillName: 'Sentry',
+        //   fontAwesomeClassName: 'logos:sentry-icon',
+        // },
       ],
     },
     {
-      title: 'Blockchain',
+      title: 'Wordpress Developer',
       lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
@@ -210,11 +206,11 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'Harvard University',
-    subHeader: 'Master of Science in Computer Science',
-    duration: 'September 2017 - April 2019',
+    schoolName: 'Karatina University',
+    subHeader: 'Bachelor of Science in Computer Science',
+    duration: 'September 2014 - April 2018',
     desc: 'Participated in the research of XXX and published 3 papers.',
-    grade: 'Grade A',
+    grade: 'Second Class Honors Upper Division-69 Points',
     descBullets: [
       'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
